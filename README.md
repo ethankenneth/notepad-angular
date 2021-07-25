@@ -157,9 +157,3 @@ Lots of love to the open source community!
 
 [npm_shield]: https://img.shields.io/npm/v/ng-notepad
 [npm_downloads_shield]: https://img.shields.io/npm/dw/ng-notepad
-
-<!-- Activity shields -->
-
-[contributors_shield]: https://img.shields.io/github/contributors/joellefkowitz/notepad
-[monthly_commits_shield]: https://img.shields.io/github/commit-activity/m/joellefkowitz/notepad
-[last_commit_shield]: https://img.shields.io/github/last-commit/joellefkowitz/notepad
