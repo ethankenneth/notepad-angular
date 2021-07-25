@@ -12,10 +12,6 @@ An Angular notepad component.
 | Publishers | ![npm][npm_shield] ![npm_downloads][npm_downloads_shield]                                                          |
 | Activity   | ![contributors][contributors_shield] ![monthly_commits][monthly_commits_shield] ![last_commit][last_commit_shield] |
 
-## Preview
-
-![Preview][preview]
-
 ## Installation
 
 ```bash
