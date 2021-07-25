@@ -55,8 +55,6 @@ grunt tests:coverage
 
 ## Documentation
 
-This repository's documentation is hosted on [readthedocs][readthedocs].
-
 To generate the sphinx configuration:
 
 ```bash
